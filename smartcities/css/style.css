@@ -1,0 +1,108 @@
+* {
+  box-sizing: border-box;
+}
+
+hr {
+  width: 91px;
+  color: #07499463;
+  position: absolute;
+}
+
+#container-geral {
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.foto {
+  -webkit-box-shadow: 6px 8px 15px -3px rgba(0, 0, 0, 0.48);
+  box-shadow: 6px 8px 15px -3px rgba(0, 0, 0, 0.48);
+}
+
+#o-que-sao-sc {
+  width: 980px;
+  font-family: Quicksand, Arial, Helvetica, sans-serif;
+  display: flex;
+  justify-content: center;
+}
+
+#titulo {
+  font-size: 28px;
+  color: #074894;
+  margin-top: 60px;
+}
+
+#texto-titulo {
+  width: 750px;
+  margin-top: 30px;
+  padding-bottom: 40px;
+  font-family: Quicksand, Arial, Helvetica, sans-serif;
+}
+
+#fotos-1 {
+  padding-bottom: 30px;
+  display: flex;
+  justify-content: space-around;
+}
+
+#mid-banner {
+  width: 980px;
+  height: 100px;
+  color: white;
+  background-color: #0f2a52;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2em;
+  font-family: Quicksand, Arial, Helvetica, sans-serif;
+}
+
+.smart-city {
+  font-family: Quicksand, Arial, Helvetica, sans-serif;
+  font-size: 28px;
+  color: #074894;
+  margin-top: 60px;
+  margin-bottom: 40px;
+}
+
+#foto-ny-01 {
+  margin-bottom: 40px;
+}
+
+.texto {
+  width: 750px;
+  margin-top: 30px;
+  padding-bottom: 40px;
+  font-family: Quicksand, Arial, Helvetica, sans-serif;
+}
+.centralizar {
+  width: 980px;
+  display: flex;
+  justify-content: center;
+}
+.fotos-cidades {
+  display: flex;
+  justify-content: space-around;
+}
+
+#divisoria {
+  width: 980px;
+}
+.holanda-1 {
+  max-width: 866px;
+}
+
+footer {
+  margin-top: 50px;
+  height: 120px;
+  width: 980px;
+  background-color: #0f2a52;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+footer div {
+  font-size: 1.2em;
+  color: white;
+  font-family: Quicksand, Arial, Helvetica, sans-serif;
+}
